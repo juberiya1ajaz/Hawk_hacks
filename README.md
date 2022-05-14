@@ -1,6 +1,6 @@
 # APP NAME
 
-## 📌Tagline
+## 📌 Tagline
 
 - A tagline for the web app
 
@@ -22,7 +22,7 @@ We are using **Hedera’s testnet** to make a secure payment method. Hedera is a
 
 ## 🔗 Best Use of DeSo
 
-- We are using DeSo to make a secure **user authentication**. DeSo is the first Layer 1 blockchain custom-built for decentralized social media applications.
+We are using DeSo to make a secure **user authentication**. DeSo is the first Layer 1 blockchain custom-built for decentralized social media applications.
 
 ## 🧠 Challenges we ran into
 
