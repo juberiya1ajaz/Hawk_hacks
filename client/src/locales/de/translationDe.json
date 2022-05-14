@@ -1,0 +1,24 @@
+{
+  "langName": "German",
+  "logo": "APP NAME",
+
+  "navLinkHome": "Zuhause",
+  "navLinkDonate": "Spenden",
+  "navLinkMap": "Karte",
+  "navChangeLang": "Sprache ändern",
+  "navLinkLogout": "Abmelden",
+
+  "homeTitle": "Wer wir sind",
+  "hoemAbout": "Über die Anwendung",
+  "homeCheckPost": "Post prüfen",
+  "homwWhatEsle": "Was haben wir noch",
+  "homeDesc": "APP NAME ist eine Web-App, in der Sie:",
+  "homePt1": "feat1",
+  "homePt2": "feat2",
+  "homePt3": "feat3",
+  "homePt4": "feat4",
+  "homePt5": "Intelligente Chatbot-Unterstützung",
+
+  "footerWith": "mit",
+  "footerBy": "von team-49"
+}

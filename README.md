@@ -14,7 +14,7 @@
 - Node Js: For backend
 - Hedera: For secure payments through blockchain
 - DeSo: For user authentication
-- Tailwind: For styling
+- Tailwind CSS: For styling
 
 ## 🔐 Best Blockchain Project Using Hedera
 

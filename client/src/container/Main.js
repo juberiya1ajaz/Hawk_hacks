@@ -4,9 +4,9 @@ import Navbar from '../components/Navbar';
 import Home from '../pages/Home';
 import Donate from '../pages/Donate';
 import Map from '../pages/Map';
+import Footer from '../components/Footer';
 
 function Main() {
-
     return (
         <BrowserRouter>
             <Navbar />
@@ -15,6 +15,7 @@ function Main() {
                 <Route path="/donate" element={<Donate />} />
                 <Route path="/map" element={<Map />} />
             </Routes>
+            <Footer />
         </BrowserRouter>
     );
 }

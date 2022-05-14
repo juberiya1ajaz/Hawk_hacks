@@ -1,0 +1,25 @@
+{
+    "langName": "English",
+    "logo": "APP NAME",
+  
+    "navLinkHome": "Home",
+    "navLinkDonate": "Donate",
+    "navLinkMap": "Map",
+    "navChangeLang": "Change Language",
+    "navLinkLogout": "Logout",
+
+    "homeTitle": "Who we are",
+    "hoemAbout": "About the application",
+    "homeCheckPost": "Check post",
+    "homwWhatEsle": "What else do we have",
+    "homeDesc": "APP NAME is a web app where you can:",
+    "homePt1": "feat1",
+    "homePt2": "feat2",
+    "homePt3": "feat3",
+    "homePt4": "feat4",
+    "homePt5": "Smart Chatbot Assistance",
+  
+    "footerWith": "with",
+    "footerBy": "by team-49"
+  }
+  

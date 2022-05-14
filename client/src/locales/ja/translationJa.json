@@ -1,0 +1,24 @@
+{
+  "langName": "英語",
+  "ロゴ": "APP NAME",
+
+  "navLinkHome": "ホーム",
+  "navLinkDonate": "寄付",
+  "navLinkMap": "マップ",
+  "navChangeLang": "言語の変更",
+  "navLinkLogout": "ログアウト",
+
+  "homeTitle": "私たちは誰ですか",
+  "hoemAbout": "アプリケーションについて",
+  "homeCheckPost": "チェックポスト",
+  "homwWhatEsle": "他に何がありますか",
+  "homeDesc": "APP NAMEは,次のことができるWebアプリです:",
+  "homePt1": "feat1",
+  "homePt2": "feat2",
+  "homePt3": "feat3",
+  "homePt4": "feat4",
+  "homePt5": "スマートチャットボットアシスタンス",
+
+  "footerWith": "with",
+  "footerBy": "by team-49"
+}

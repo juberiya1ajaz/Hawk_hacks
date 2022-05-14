@@ -9,7 +9,7 @@ const App = () => {
   console.log(setAuth)
 
   return (
-    <div className="font-orienta">
+    <div className="font-montserrat">
       {auth ?
         <Main />
         :
