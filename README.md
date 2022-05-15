@@ -12,19 +12,19 @@ We all remember Alan kurdi don't we? The first time that people all around the g
 - User authentication using DeSo
 - Multilang option making it user-friendly
 - Map access from where you can find nearby Refugee helping centers and Refugee density.
-<!-- - Chatbot for your assistance -->
+- Chatbot for your assistance
 
 ## ⚙️ How we built it
 
 - React Js: For frontend
 - Node Js: For backend
-- Hedera: For secure payments through the blockchain
+- Hedera: For secure chatroom through the Hedera’s testnet
 - DeSo: For user authentication
 - Tailwind CSS: For styling
 
 ## 🔐 Best Blockchain Project Using Hedera
 
-We are using **Hedera’s testnet** to make a secure payment method. Hedera is a decentralized public network that utilizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create the next era of fast, fair, and secure applications.
+We are using **Hedera’s testnet** to make a secure chatroom. Hedera is a decentralized public network that utilizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create the next era of fast, fair, and secure applications.
 
 ## 🔗 Best Use of DeSo
 
@@ -32,10 +32,10 @@ We are using DeSo to make a secure **user authentication**. DeSo is the first La
 
 ## 🧠 Challenges we ran into
 
-Brainstorming: It took us a long time to develop a website that had a real societal influence.
-Some of our teammates were new To _MERN_ and _tailwind_ so it took a lot of time to get familiar with this tech stack.
-Working with Hedera and Deso, which we were unfamiliar with, working with databases, managing our scope such that we delivered a genuine product
-Utilizing the backend, we got it all to work in the end.
+- Brainstorming: It took us a long time to develop a website that had a real societal influence.
+- Some of our teammates were new To _MERN_ and _tailwind_ so it took a lot of time to get familiar with this tech stack.
+- Working with Hedera and Deso, which we were unfamiliar with, working with databases, managing our scope such that we delivered a genuine product
+- Utilizing the backend, we got it all to work in the end.
 
 ## 🏅 Accomplishments that we're proud of
 

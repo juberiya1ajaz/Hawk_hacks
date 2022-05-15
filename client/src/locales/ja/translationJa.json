@@ -1,9 +1,10 @@
 {
   "langName": "英語",
-  "logo": "R3hab the refugee",
+  "logo": "R3hab 難 善活動に",
 
   "navLinkHome": "ホーム",
-  "navLinkDonate": "Donate",
+  "navLinkDonate": "動に取り",
+  "navLinkChatroom": "を使用",
   "navLinkMap": "マップ",
   "navChangeLang": "言語の変更",
   "navLinkLogout": "ログアウト",
@@ -15,10 +16,10 @@
   "homeDesc": "R3hab難民はあなたができるウェブアプリです:",
   "homePt1": "Hederaによる安全な支払い",
   "homePt2": "DeSoを使用したユーザー認証",
-  "homePt3": "ユーザーフレンドリーにするMultilangオプション",
+  "homePt3": "ユーザーフレンドリーにする測定シオプション",
   "homePt4": "近くの難民支援センターと難民密度を見つけることができる場所からの地図アクセス。",
   "homePt5": "スマートチャットボットアシスタンス",
 
-  "footerWith": "with",
-  "footerBy": "by team-49"
+  "footerWith": "でき",
+  "footerBy": "民 team-49"
 }
