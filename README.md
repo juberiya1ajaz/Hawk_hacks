@@ -1,7 +1,7 @@
 # R3hab the Refugee
 
 ## 📌My pilgrim ancestors were refugees, were yours?
-My pilgrim ancestors were refugees, were yours?
+
 
 ## 💡 Inspiration
 We all remember Alan kurdi don't we? The first time that people all around the globe got to know about the refugee crisis. Right now we are also facing the Ukraine crisis. We focused on developing a feasible solution to tackle the Refugee crisis and safe philanthropy and educating people on it throughout the brainstorming process. On our website, you can donate money using blockchain. We wanted to develop a website with robust and transparent impact tracking and measurement systems that would help in reducing unnecessary costs, and eliminate corruption and boosting trustworthiness.This application was inspired by Refugee and philantrophist worldwide who were unable to access optimal solution .
