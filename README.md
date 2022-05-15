@@ -1,4 +1,4 @@
-# APP NAME
+# R3hab the refugee
 
 ## 📌 Tagline
 
@@ -37,6 +37,6 @@ We are using DeSo to make a secure **user authentication**. DeSo is the first La
 - Collaboration with other developers.
 - Using Hedera for secure payments through blockchain.
 
-## 🚀 What's next for APP NAME
+## 🚀 What's next for R3hab the refugee
 
 - Building a mobile app

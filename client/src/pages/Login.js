@@ -28,7 +28,7 @@ function LogIn() {
                     <div className="md:flex md:flex-col md:justify-center lg:pr-16">
 
                         <h2 className="mb-4 text-[2.6rem] self-center font-bold tracking-wider text-white">
-                            APP NAME
+                            R3hab the refugee
                         </h2>
 
                         <div className='grid place-items-center'>
