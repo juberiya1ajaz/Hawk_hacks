@@ -1,6 +1,6 @@
 {
-  "langName": "German",
-  "logo": "R3hab the refugee",
+  "langName": "Englisch",
+  "logo": "R3hab der Flüchtling",
 
   "navLinkHome": "Zuhause",
   "navLinkDonate": "Spenden",
@@ -9,14 +9,14 @@
   "navLinkLogout": "Abmelden",
 
   "homeTitle": "Wer wir sind",
-  "hoemAbout": "Über die Anwendung",
+  "hoemAbout": "Wir haben uns darauf konzentriert, eine praktikable Lösung zur Bewältigung der Flüchtlingskrise und der sicheren Philanthropie zu entwickeln und die Menschen während des gesamten Brainstorming-Prozesses darüber aufzuklären. Auf unserer Website können Sie mithilfe von Blockchain Geld spenden. Wir wollten eine Website mit robusten und transparente Impact-Tracking- und Messsysteme, die helfen würden, unnötige Kosten zu reduzieren, Korruption zu beseitigen und die Vertrauenswürdigkeit zu stärken. Diese Anwendung wurde von Flüchtlingen und Philanthropen weltweit inspiriert, die keinen Zugang zu optimalen Lösungen hatten.",
   "homeCheckPost": "Post prüfen",
   "homwWhatEsle": "Was haben wir noch",
-  "homeDesc": "R3hab the refugee ist eine Web-App, in der Sie:",
-  "homePt1": "feat1",
-  "homePt2": "feat2",
-  "homePt3": "feat3",
-  "homePt4": "feat4",
+  "homeDesc": "R3hab der Flüchtling ist eine Web-App, mit der Sie:",
+  "homePt1": "Sichere Zahlung durch Hedera",
+  "homePt2": "Benutzerauthentifizierung über DeSo",
+  "homePt3": "Benutzerfreundliche Multilang-Option",
+  "homePt4": "Kartenzugang, von dem aus Sie nahe gelegene Flüchtlingshilfezentren und die Flüchtlingsdichte finden können.",
   "homePt5": "Intelligente Chatbot-Unterstützung",
 
   "footerWith": "mit",

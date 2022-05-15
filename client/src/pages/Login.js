@@ -32,10 +32,10 @@ function LogIn() {
                         </h2>
 
                         <div className='grid place-items-center'>
-                            <div className="w-56 h-56 my-5 block bg-white hover:bg-gray-100 focus:bg-gray-100 text-gray-900 font-semibold rounded-lg px-4 py-3 border border-gray-300 cursor-pointer shadow-lg">
+                            <div className="w-64 h-64 my-5 block bg-white hover:bg-gray-100 focus:bg-gray-100 text-gray-900 font-semibold rounded-lg px-4 py-3 border border-gray-300 cursor-pointer shadow-lg">
                                 <div className="flex items-center justify-center h-full bg-white hover:bg-gray-100" onClick={() => handleAuth(4, true)}>
                                     <img src={DeSOImg} alt="google" className="w-6" />
-                                    <span className="ml-4 text-lg">Sign in with DeSo</span>
+                                    <span className="ml-4 text-xl">Sign in with DeSo</span>
                                 </div>
                             </div>
                         </div>

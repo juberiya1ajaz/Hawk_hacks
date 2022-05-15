@@ -148,6 +148,12 @@ export default function Navbar() {
                                         </div>
                                     </Menu.Item>
 
+                                    <Menu.Item>
+                                        <div className="w-full py-3 text-sm pl-12 cursor-pointer" onClick={changeLang("ua")} >
+                                            Ukrainian
+                                        </div>
+                                    </Menu.Item>
+
                                 </Menu.Items>
                             </Transition>
                         </Menu>

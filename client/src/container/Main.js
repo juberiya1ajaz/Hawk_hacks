@@ -16,7 +16,7 @@ function Main() {
                 <Route path="/donate" element={<Donate />} />
                 <Route path="/map" element={<Map />} />
             </Routes>
-            {/* <Chatbot /> */}
+            <Chatbot />
             <Footer />
         </BrowserRouter>
     );
