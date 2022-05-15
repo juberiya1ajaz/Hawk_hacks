@@ -1,0 +1,61 @@
+/**
+ * @namespace proto
+ * @typedef {import("@hashgraph/proto").proto.INodeAddressBook} HashgraphProto.proto.INodeAddressBook
+ */
+/**
+ * @typedef {import("./NodeAddress.js").NodeAddressJson} NodeAddressJson
+ */
+/**
+ * @typedef {object} NodeAddressBookJson
+ * @property {NodeAddressJson[]} nodeAddresses
+ */
+export default class NodeAddressBook {
+    /**
+     * @internal
+     * @param {HashgraphProto.proto.INodeAddressBook} nodeAddressBook
+     * @returns {NodeAddressBook}
+     */
+    static _fromProtobuf(nodeAddressBook: HashgraphProto.proto.INodeAddressBook): NodeAddressBook;
+    /**
+     * @param {object} props
+     * @param {NodeAddress[]} [props.nodeAddresses]
+     */
+    constructor(props?: {
+        nodeAddresses?: NodeAddress[] | undefined;
+    });
+    /**
+     * @type {NodeAddress[]}
+     */
+    _nodeAddresses: NodeAddress[];
+    /**
+     * @returns {NodeAddress[]}
+     */
+    get nodeAddresses(): NodeAddress[];
+    /**
+     * @param {NodeAddress[]} nodeAddresses
+     * @returns {this}
+     */
+    setNodeAddresses(nodeAddresses: NodeAddress[]): this;
+    /**
+     * @returns {HashgraphProto.proto.INodeAddressBook}
+     */
+    _toProtobuf(): HashgraphProto.proto.INodeAddressBook;
+    /**
+     * @returns {string}
+     */
+    toString(): string;
+    /**
+     * @returns {NodeAddressBookJson}
+     */
+    toJSON(): NodeAddressBookJson;
+}
+export namespace HashgraphProto {
+    namespace proto {
+        type INodeAddressBook = import("@hashgraph/proto").proto.INodeAddressBook;
+    }
+}
+export type NodeAddressJson = import("./NodeAddress.js").NodeAddressJson;
+export type NodeAddressBookJson = {
+    nodeAddresses: NodeAddressJson[];
+};
+import NodeAddress from "./NodeAddress.js";

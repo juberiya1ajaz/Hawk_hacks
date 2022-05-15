@@ -1,0 +1,33 @@
+/**
+ * @typedef {import("../channel/Channel.js").default} Channel
+ * @typedef {import("../Status.js").default} Status
+ * @typedef {import("../Executable.js").ExecutionState} ExecutionState
+ */
+/**
+ * @template OutputT
+ * @augments {Executable<HashgraphProto.proto.IQuery, HashgraphProto.proto.IResponse, Hbar>}
+ */
+export default class CostQuery<OutputT> extends Executable<HashgraphProto.proto.IQuery, HashgraphProto.proto.IResponse, Hbar> {
+    /**
+     * @param {import("./Query.js").default<OutputT>} query
+     */
+    constructor(query: import("./Query.js").default<OutputT>);
+    _query: import("./Query.js").default<OutputT>;
+    /**
+     * @type {HashgraphProto.proto.IQueryHeader | null}
+     */
+    _header: HashgraphProto.proto.IQueryHeader | null;
+    /**
+     * @abstract
+     * @protected
+     * @param {import("../client/Client.js").default<*, *>} client
+     * @returns {Promise<void>}
+     */
+    protected _beforeExecute(client: import("../client/Client.js").default<any, any>): Promise<void>;
+}
+export type Channel = import("../channel/Channel.js").default;
+export type Status = import("../Status.js").default;
+export type ExecutionState = import("../Executable.js").ExecutionState;
+import * as HashgraphProto from "@hashgraph/proto";
+import Hbar from "../Hbar.js";
+import Executable from "../Executable.js";
