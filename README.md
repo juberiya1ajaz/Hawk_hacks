@@ -1,12 +1,19 @@
-# R3hab the refugee
+# R3hab the Refugee
 
-## 📌 Tagline
-
-- A tagline for the web app
+## 📌My pilgrim ancestors were refugees, were yours?
+My pilgrim ancestors were refugees, were yours?
 
 ## 💡 Inspiration
+We all remember Alan kurdi don't we? The first time that people all around the globe got to know about the refugee crisis. Right now we are also facing the Ukraine crisis. We focused on developing a feasible solution to tackle the Refugee crisis and safe philanthropy and educating people on it throughout the brainstorming process. On our website, you can donate money using blockchain. We wanted to develop a website with robust and transparent impact tracking and measurement systems that would help in reducing unnecessary costs, and eliminate corruption and boosting trustworthiness.This application was inspired by Refugee and philantrophist worldwide who were unable to access optimal solution .
+
 
 ## 💻 What it does
+<li> Secure payment through Hedera
+  <li>User authentication using deso
+   <li>Multilang option making it user-friendly
+     <li>Map access from where you can find nearby Refugee helping centers and Refugee's density .
+    <!-- Chatbot for assistance -->
+</li>
 
 ## ⚙️ How we built it
 
@@ -25,11 +32,15 @@ We are using **Hedera’s testnet** to make a secure payment method. Hedera is a
 We are using DeSo to make a secure **user authentication**. DeSo is the first Layer 1 blockchain custom-built for decentralized social media applications.
 
 ## 🧠 Challenges we ran into
-
+Brainstorming: It took us a long time to develop a website that had a real societal influence.
+Some of our teammates were new To *MERN* and *tailwind* so it took a lot of time to get familiar with this tech stack.
+Working with Hedera and Deso, which we were unfamiliar with, working with databases, managing our scope such that we delivered a genuine product
+Utilizing the backend, we got it all to work in the end.
 ## 🏅 Accomplishments that we're proud of
 
-- Completing the project in the given time frame.
+-  We are grateful that we managed our time to complete the task swiftly and on time.
 - Building a secure payment method using Hedera's testnet.
+- Some of our teammates learnt bare bones of  MERN and tailwind in such a short duration.
 
 ## 📖 What we learned
 
@@ -37,6 +48,6 @@ We are using DeSo to make a secure **user authentication**. DeSo is the first La
 - Collaboration with other developers.
 - Using Hedera for secure payments through blockchain.
 
-## 🚀 What's next for R3hab the refugee
+## 🚀 What's next for R3hab the Refugee
 
 - Building a mobile app
